@@ -1,7 +1,6 @@
 body {
   div.image {
-   content:url(https://authoromark.github.io/paveiksliukas.jpg);
-}​
+   content: url("https://authoromark.github.io/paveiksliukas.jpg");
   font-size: 40px;
   font-family: "Georgia";
 }
