@@ -1,8 +1,7 @@
 body {
   font-size: 40px;
   font-family: "Georgia";
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZFP7CIYSncrvNZIZwpKeGXpoeJ4Meub7-j8TfDcoXXMYceQaZh9QkK3s");
 }
 
- div.image {
-   content: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZFP7CIYSncrvNZIZwpKeGXpoeJ4Meub7-j8TfDcoXXMYceQaZh9QkK3s");
-}
+ 
